@@ -57,8 +57,8 @@ To guarantee the high-availability required by digital financial architectures, 
  * Package Manager (npm)
 ### 2. Clone and Install
 ```bash
-git clone <your-repo-url>
-cd https://github.com/rxxeron/EWU_parasites
+git https://github.com/rxxeron/EWU_parasites 
+cd queuestorm-crm
 npm install
 
 ```
